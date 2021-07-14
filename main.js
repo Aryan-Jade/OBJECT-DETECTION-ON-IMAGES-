@@ -1,21 +1,19 @@
-window.location = "index.html";
-
 function tv(){
-    window.location = "index.html";
+    window.location = "page_tv.html";
 }
 
 function laptop(){
-    window.location = "index.html";
+    window.location = "page_laptop.html";
 }
 
 function bottle(){
-    window.location = "index.html";
+    window.location = "page_bottle.html";
 }
 
 function bed(){
-    window.location = "index.html";
+    window.location = "page_bed.html";
 }
 
 function basket(){
-    window.location = "index.html";
+    window.location = "page_basket.html";
 }
